@@ -1,0 +1,33 @@
+h1 {
+
+color: darkblue;
+font-size: 70px;
+
+font-style: oblique;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+
+color: darkblue;
+
+}
+
+.score {
+color: blue;
+}
+
+.gold {
+  color: red;
+}
+
+#gameLink {
+
+text-align: center;
+
+border: 1px solid gray;
+
+}
